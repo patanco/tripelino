@@ -26,9 +26,13 @@ While button B is pressed, 3 Symbols (tree, star, glass) are displayed one after
 You win a round if you have 3 times the same symbol. In this case a firework animation is shown.
 After 10 rounds, the score is displayed and you can start again :)
 
+In theory, you have a chance of 1/9 to win a round (1/3 * 1/3 * 1/3).
+
 ## Issues
 I had one issue with a symbol not being displayed: I discovered it was a problem with the second variable being set. As a work-around, I created one not used variable called bug :).
+![bug](bug.png)
 
 I also discovered the function "button was clicked" did not work as expected for me. I therefore replaced all these functions by a combination of repeat until button x is pressed + repeat while button x is pressed.
+![button_pressed](button_pressed.png)
 
 ## In action
