@@ -17,5 +17,7 @@ It is a simplified version of the game "triple chance".
 
 While button B is pressed, 3 Symbols (tree, star, glass) are displayed one after the other very quickly (in order to simulate the turning wheel on a casino machine). As soon as the button is released, the wheel stops at the last symbol shown. This function is repeated 3 times.
 
+![triple chance](triple_chance.png)
+
 You win a round if you have 3 times the same symbol. In this case a firework animation is shown.
 After 10 rounds, the score is displayed and you can start again :)
