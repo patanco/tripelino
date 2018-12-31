@@ -36,3 +36,7 @@ I also discovered the function "button was clicked" did not work as expected for
 ![button_pressed](button_pressed.png)
 
 ## In action
+![kniw_20181231_1](kniw_20181231_1.jpg)
+![kniw_20181231_2](kniw_20181231_2.jpg)
+![kniw_20181231_3](kniw_20181231_3.jpg)
+
